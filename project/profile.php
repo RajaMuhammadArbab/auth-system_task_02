@@ -29,6 +29,7 @@ $stmt->fetch();
 ?>
 
 <h2>Update Profile</h2>
+<head><link rel="stylesheet" href="style.css"></head>
 <form method="POST">
     Username: <input type="text" name="username" value="<?= htmlspecialchars($username) ?>" required><br>
     Email: <input type="email" name="email" value="<?= htmlspecialchars($email) ?>" required><br>

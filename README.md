@@ -67,6 +67,8 @@ auth-system/
 <img width="1816" height="795" alt="Capture3" src="https://github.com/user-attachments/assets/c2369d65-004b-407f-b525-b0d0999abbc8" />
 <img width="947" height="765" alt="Capture4" src="https://github.com/user-attachments/assets/2ca6a715-a48c-478d-a8fc-4d2b815af06b" />
 <img width="568" height="433" alt="1" src="https://github.com/user-attachments/assets/e4a6bf5c-1c52-4fec-b569-eedb34c29522" />
+<img width="442" height="452" alt="Capture6" src="https://github.com/user-attachments/assets/0a82a033-9f4c-487d-88d2-5f3fa280097b" />
+<img width="641" height="470" alt="2" src="https://github.com/user-attachments/assets/172284e3-7cab-4fa0-977d-6733bede58f6" />
 
 
 
